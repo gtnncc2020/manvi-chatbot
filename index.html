@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Bot</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="static/css/chat.css">
+    <link rel="stylesheet" href="static/css/responces.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+        <div class="ctn">
+        <div class="navb">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLv7RyT0233rvAVvZYGGH299vUvbGnfAaKO0xhYk3_O3pMBm2KHX3&usqp=CAE&s class=logo">
+        </div>
+        
+                <h3 style="font-size:70px; color:white;" id="pp">WELCOME TO UPSC CHATBOT MANVI</h1>
+
+ 
+            </div>
+                    
+         <!-- CHAT BAR BLOCK -->
+    <div class="chat-bar-collapsible">
+        <button id="chat-button" type="button" class="collapsible" style="color:black;">
+            Chat with us!
+            <i id="chat-icon" style="color: black;" class="fa fa-fw fa-comments-o"></i>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRQBxG6rjRamH0RPy6Bwx8v4CXmq6gMOM0w&usqp=CAU" width="40px" height="40px" style = "border-radius:80px; margin:0;padding:0px;">
+            <span style="font-size:14px;font-weight:bold; position:relative;bottom:20px;color:black;">UPSC-Chatbot</span>
+            <span style="font-size:14px;font-weight:bold; position:relative;bottom:5px; left:-85px; color:skyblue;">CLICKME</span>
+        </button>
+
+        <div class="content">
+            <div class="full-chat-block">
+                <!-- Message Container -->
+                <div class="outer-container">
+                    <div class="chat-container">
+                        <!-- Messages -->
+                        <div id="chatbox">
+                            <h4 id="chat-timestamp"></h4>
+                            <p id="botStarterMessage" class="botText"><span class="botText">Hi I'm UPSC CHATBOT👩‍💻</span></p>
+                        </div>
+
+                        <!-- User input box -->
+                        <div class="chat-bar-input-block">
+                            <div id="userInput">
+                                <input id="question" class="input-box" type="text" name="question"
+                                    placeholder="Enter message">
+                                <p></p>
+                            </div>
+
+                            <div class="chat-bar-icons">
+                                <i id="chat-icon2" style="color: crimson;" class="fa fa-fw fa-rocket"></i>
+                                <i id="chat-icon3" style="color: #333;" class="fa fa-fw fa-send"></i>
+                                                    </div>
+                       
+                        </div>
+                        </div>
+
+                        <div id="chat-bar-bottom">
+                            <p></p>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    </div>
+    <div id="video-background">
+        <video autoplay muted loop id="video-bg-source">
+            <source src="static/media/arm.mp4" type="video/mp4">
+        </video>
+    </div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="static/scripts/responses.js"></script>
+<script src="static/scripts/chat.js"></script>
+<script src="static/scripts/jquery.min.js"></script>
+</script>
+<h1>Speech-to-Text Example</h1>
+    <button onclick="startSpeechRecognition()">Start Speech Recognition</button>
+    <div id="transcription"></div>
+
+    
+</html>
