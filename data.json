@@ -1,0 +1,1005 @@
+{
+  "intents": [
+
+      {
+        "tag": "UPSC chatbot",
+        "patterns": [
+          "Types",
+          "Hi",
+          " manvi",
+          " hi",
+          "hello"
+        ],
+        "responses": [
+          "Hi I AM manvi ; how can I help you ."
+        ],
+        "context": ""
+      },
+    
+
+  
+    {
+      "tag": "types of upsc exams",
+      "patterns": [
+        "Types",
+        "different types of upsc exams",
+        " what are the different types of exam in upsc?",
+        "types of exams"
+      ],
+      "responses": [
+        "Here are some of the major exams conducted by the UPSC:1. Civil Services Examination (CSE),2. Indian Forest Service Examination (IFoS),3. Engineering Services Examination (ESE),  4. Combined Defence Services Examination (CDSE), 5. National Defence Academy Examination (NDA), 6. Naval Academy Examination, 7. Combined Medical Services Examination (CMSE),  8. Indian Economic Service Examination (IES), 9. Indian Statistical Service Examination(ISS), 10. Central Armed Police Forces Examination (CAPF)."
+      ],
+      "context": ""
+    },
+    {
+      
+      "tag":  "civil services Applying Age",
+      "patterns": [
+        "Types",
+        "Appyling Age of civil services Exams",
+        "Applying Age  of CSE"
+        
+      ],
+      "responses": [
+        " Civil Services Examination (IAS):General Category: 21 to 32 years.OBC Category: 21 to 35 years.SC/ST Category: 21 to 37 years."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": "combined defence services  Applying Age ",
+      "patterns": [
+        "Types",
+        "Applying Age combined defence services ",
+        "Applying Age of  CDS"
+        
+      ],
+      "responses": [
+        "Combined Defence Services Examination(CDS):For IMA and OTA: 19 to 24 years.For Naval Academy: 19 to 22 years.For Air Force Academy: 20 to 24 years."                              
+      ],
+       "context": ""
+    },
+ {
+      
+      "tag": " National Defence Academy   Applying Age",
+      "patterns": [
+        "Types ",
+        "Applying Age   of National Defence Academy",
+        "  Applying Age of NDA "
+        
+      ],
+      "responses": [
+        " National Defence Academy (NDA):16½ to 19½ years."                            
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": " Indian forest service examination Applying  Age ",
+      "patterns": [
+        "Types",
+        " Applying Age   of Indian forest service examination",
+        " Applying Age  of IFOS"
+        
+      ],
+      "responses": [
+        "Indian Forest Service (IFS):General Category: 21 to 32 years.OBC Category: 21 to 35 years.SC/ST Category: 21 to 37 years."                       
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": " Engineering services Examination  Applying Age",
+      "patterns": [
+        "Types",
+        " Applying Age  of Engineering services Examination",
+        "Applying Age of ESE"
+        
+      ],
+      "responses": [
+        "Engineering Services Examination (ESE):21 to 30 years."                    
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": "Naval Academy Examination Applying Age",
+      "patterns": [
+        "Types",
+        " Applying Age  of Naval Academy Examination",
+        "Applying Age  of NA"
+        
+      ],
+      "responses": [
+        "Naval Academy :16½ to 19½ years."                    
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": " combined medical Examination Agelimit",
+      "patterns": [
+        "Types",
+        "Age limit  of combined medical Examination",
+        " Age limit of CME"
+        
+      ],
+      "responses": [
+        "Combined Medical Services Examination (CMS):32 years."
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": "Indian Economic service  Examination Age ",
+      "patterns": [
+        "Types",
+        "Age limit  of Indian Economic service  Examination",
+        " Age limit of Ies"
+        
+      ],
+      "responses": [
+        " the age limits for the Indian Economic Service (IES) exam conducted by UPSC are typically as follows:Minimum Age: 21 yearsMaximum Age: 30 years."
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": " Indian statistical service Exam Agelimit",
+      "patterns": [
+        "Types",
+        "Age limit  of Indian statistical service Exam",
+        " Age limit of ISS"
+        
+      ],
+      "responses": [
+        "the age limits for the Indian Statistical Service (ISS) exam conducted by UPSC are generally as follows:Minimum Age: 21 yearsMaximum Age: 30 years."
+      ],
+      "context": ""
+    },
+{
+      
+      "tag": "  central Armed police forces Agelimit",
+      "patterns": [
+        "Types",
+        "Age limit  of central Armed police forces",
+        " Age limit of CAPF"
+        
+      ],
+      "responses": [
+        "the age limits for the Central Armed Police Forces (CAPF) Assistant Commandant Exam conducted by UPSC are typically as follows:Minimum Age: 20 yearsMaximum Age: 25 years."
+      ],
+      "context": ""
+    },
+  
+
+    {
+      "tag": "civil services Exam notification release months",
+      "patterns": [
+        "Types",
+        "civil services Exam notification release month",
+        "Exam notification release month of CSE"
+        
+      ],
+      "responses": [
+        " preliminary Exam conducted in june , Mains Exam conducted in September."
+      ],
+      "context": ""
+    },
+    {
+      
+      "tag": "indian forest services notification release months",
+      "patterns": [
+        "Types",
+        "indian forest services Exam notification release month",
+        "Exam notification release month of IFOS"
+        
+      ],
+      "responses": [
+        "  preliminary Exam conducted in june , Mains Exam conducted in November."
+      ],
+      "context": ""
+    },
+      {
+    
+      
+      
+      "tag": "Engineering service Exams  notification release months",
+      "patterns": [
+        "Types",
+        "Exam  notification release month of Engineering service Examination",
+        " Exam  notification release month of ESE"
+        
+      ],
+      "responses": [
+        " preliminary Exam conducted in january , Mains Exam conducted in july."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": " Upsc Exams conducting month",
+      "patterns": [
+        "Types",
+        "Exam conducting month of   combined defence services",
+        "Exam conducting month of CDS"
+        
+      ],
+      "responses": [
+        " ususally conducted in february and november."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": "upsc Exams conducting month ",
+      "patterns": [
+        "Types",
+        " Exam conducting month of National defence Academy",
+        " Exam conducting month of NDA"
+        
+      ],
+      "responses": [
+        "Usually conducted in september and April."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": " Naval Academy Exams notification release month",
+      "patterns": [
+        "Types",
+        " Exam notification release month of Naval Academy",
+        " Exam conducted month of NA"
+        
+      ],
+      "responses": [
+        " Usaually conducted in september and April."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": "combined medical Exam notification release  month",
+      "patterns": [
+        "Types",
+        "Exam conducted month of combined medical Exam",
+        " Exam conducted month of CME"
+        
+      ],
+      "responses": [
+        " Usually conducted in the month of july ."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": "Indian Economic Service Exam notification release  month",
+      "patterns": [
+        "Types",
+        "Exam notification release month of Indian Economic Services",
+        " Exam notification  month of IES"
+        
+      ],
+      "responses": [
+        "Usually conducted in the  month of june."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": " Indian Statistical Service Exam notification release  month",
+      "patterns": [
+        "Types",
+        " Indian Statistical Service Exam notification release month ",
+        "notification release month of ISS  Exam"
+        
+      ],
+      "responses": [
+        " Usually conducted in the  month of june."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": "Armed police forces Exam notification release months",
+      "patterns": [
+        "Types",
+        "Exam notification release month of Central Armed police forces Exam ",
+        "Exam notification release month of CAPF  "
+        
+      ],
+      "responses": [
+        " Usually conducted in the month of August."
+      ],
+      "context": ""
+    },
+    
+    {
+      
+      "tag": "upsc Exams Reference Books",
+      "patterns": [
+        "Types",
+        "Reference books for upscExams ",
+        " common reference books  for upscExam"
+        
+      ],
+      "responses": [
+        "For UPSC exams, consider standard reference books:History: India's Struggle for Independence by Bipin Chandra.Geography: Certificate Physical and Human Geography by Goh Cheng Leong.Polity: Indian Polity by M. Laxmikanth.Economy: Indian Economy by Ramesh Singh.Environment: Environment by Shankar IAS Academy by Shankar IAS.General Studies: General Studies Paper 1 sby Arihant Publications.Current Affairs: Newspapers like The Hindu and magazines like Yojana."
+      ],
+      "context": ""
+    },
+      
+    {
+      
+      "tag": "Qualifications of civil services Exams",
+      "patterns": [
+        "Types",
+        "qualifications of civil services Exams",
+        " qualification of CSE"
+        
+      ],
+      "responses": [
+        " any degree / no percentage requried."
+      ],
+      "context": ""
+    },
+    
+    {
+          
+      "tag": "Eligibility for indian forest services",
+      "patterns": [
+        "Types",
+        "Eligibility for  indian forest services",
+         "Eligibility for IFOS"
+        
+      ],
+      "responses": [
+        " UG degree / atleast one subjects ( Animal husbandry, veterinary science, Botany , chemistry, geology,maths,physics,statistics and zology or an UG degree in Agriculture/forestry or engineering."
+      ],
+      "context": ""
+    },
+    {
+          
+      "tag": "Qualifications of Engineering service",
+      "patterns": [
+        "Types",
+        "qualifications of Engineering service Examination",
+        " qualification of ESE"
+        
+      ],
+      "responses": [
+        " any  Engineering degree from university."
+      ],
+      "context": ""
+    },
+
+    {
+      
+      "tag": "Eligibility for National defence Academy",
+      "patterns": [
+        "Types",
+        "Eligibility of National defence Academy",
+        "Eligibility for  NDA"
+        
+      ],
+      "responses": [
+        " 10 ,+2 (physics , chemistry , Maths)."
+      ],
+      "context": ""
+    },
+    
+    {
+          
+      "tag": "Eligibility of Naval Academy ",
+      "patterns": [
+        "Types",
+        "Eligibility of Naval Academy",
+        "Eligibility of NA"
+        
+      ],
+      "responses": [
+        " 10 ,+2 (physics , chemistry , Maths)."
+      ],
+      "context": ""
+    },
+    
+    {
+          
+      "tag": "Eligibility of combined medical Exam ",
+      "patterns": [
+        "Types",
+        " Eligibility of combined medical Exam",
+        "Eligibility of CME"
+        
+      ],
+      "responses": [
+        " MBBS degree medical council of india (liciense)."
+      ],
+      "context": ""
+    },
+    
+    {
+          
+      "tag": "Eligibility of  Indian Economic Service",
+      "patterns": [
+        "Types",
+        "Eligibility of Indian Economic Service Exam",
+        "Eligibility  for IES"
+        
+      ],
+      "responses": [
+        " Post graduate degree Economics/Applied Economics/Business Economics/Econometrics."
+      ],
+      "context": ""
+    },
+    
+    
+    
+    {
+          
+      "tag": "Eligibility for Indian Statistical Service Exam ",
+      "patterns": [
+        "Types",
+        "Eligibility for  Indian Statistical Service Exam ",
+        "Eligibility condition for ISS",
+        "Iss qualification"
+        
+      ],
+      "responses": [
+        " degree in Stastistics Mathematical Statistics, Applied Statistics / Masters in statistics/ Mathematical Statistics Applied Statistics."
+      ],
+      "context": ""
+    },
+    
+    {
+          
+      "tag": "Eligibility of Combined Defence service",
+      "patterns": [
+        "Types",
+        "Eligibility  for combined defence services",
+        "Eligibility condition for  CDS"
+        
+      ],
+      "responses": [
+        " any  Engineering degree from university / UG degree with no percentage."
+      ],
+      "context": ""
+    },
+
+    {
+    
+      "tag": "Qualifications of central Armed police forces  Exams",
+      "patterns": [
+        "Types",
+        "qualifications of  central Armed police forces  Exam",
+        " qualification of CAPF"
+        
+      ],
+      "responses": [
+        "  Any degree/ no percentage required."
+      ],
+      "context": ""
+    },
+
+    {
+    
+      "tag": "Syllabus of civil service Exam",
+      "patterns": [
+        "Types",
+        "Syllabus of civil service Exam",
+        " Syllabus of CSE",
+        "Syllabus of IAS/IPS/IFS"
+      ],
+      "responses": [
+        "Prelims:1. GS Paper-I: Events, History, Geography, Polity, Economics, Science,2. CSAT (Paper-II): Comprehension, Logical reasoning, Decision-making, Mains:1. Indian Language (Qualifying),2. English (Qualifying),3. Essay,4. GS I: Heritage, Culture, History, Geography,5. GS II: Polity, Governance, International relations,6. GS III: Technology, Economy, Environment, Security,7. GS IV: Ethics, Integrity, Aptitude 8. Optional Subject - Paper I,9. Optional Subject - Paper II,Interview:Suitability assessment. Check UPSC website forupdates."
+      ],
+      "context": ""
+    },
+  
+    {
+    
+      "tag": "Syllabus of Indian Forest Service Exam",
+      "patterns": [
+        "Types",
+        "Syllabus of Indian Forest Service Exam ",
+        " Syllabus of IFOS ",
+        "Syllabus of DFO "
+      ],
+      "responses": [
+        "  list of subjects for the Indian Forest Service (IFS) examination:1. General Studies 2. Botany 3. Chemistry 4. Mathematics 5. Physics 6. Zoology 7. Geology Candidates choose two optional subjects from the list provided."
+      ],
+      "context": ""
+    },
+    {
+    
+      "tag": "Syllabus of Indian Engineering Service Exam",
+      "patterns": [
+        "Types",
+        "Syllabus of Indian Enigneering  Service Exam ",
+        " Syllabus of IES ",
+        "Syllabus of central government Engineering "
+      ],
+      "responses": [
+        "The syllabus for the Indian Engineering Services (IES) exam comprises:1. Paper-I: General Studies and Engineering Aptitude,2. Paper-II: Engineering Discipline-specific content (Civil/Mechanical/Electrical/Electronics & Telecommunication Engineering)."
+      ],
+      "context": ""
+    },
+  
+    {
+    
+      "tag": "Syllabus of Combined defence Service Exam",
+      "patterns": [
+        "Types",
+        "Syllabus of Combined Defence  Service Exam ",
+        " Syllabus of CDS ",
+        "Syllabus of Army/Navy/Airforce"
+      ],
+      "responses": [
+        "The syllabus for the Combined Defence Services (CDS):1. English,2. General Knowledge (GK) - including knowledge of current events and everyday observations,3. Elementary Mathematics for Officers Training Academy (OTA),4. Elementary Mathematics, English, and General Knowledge for Indian Military Academy (IMA), Indian Naval Academy (INA), and Air Force Academy (AFA)."
+
+      ],
+      "context": ""
+    },
+  
+    {
+    
+      "tag": "Syllabus of National Defence Academy Exam",
+      "patterns": [
+        "Types",
+        "Syllabus of National Defence Academy Exam ",
+        " Syllabus of NDA Exam",
+        "Syllabus of  college Entry Army/Navy/Airforce"
+      ],
+      "responses": [
+        "The NDA syllabus covers Mathematics, General Ability Test (English and General Knowledge), and includes an interview process."
+
+      ],
+      "context": ""
+    },
+      
+{
+    
+      "tag": "Syllabus of Naval Academy Exam",
+      "patterns": [
+        "Types",
+        "Syllabus of Naval Academy Exam ",
+        " Syllabus of NA ",
+        "Syllabus of  college Entry Navy"
+      ],
+      "responses": [
+        "The NA syllabus covers Mathematics, General Ability Test (English and General Knowledge), and includes an interview process."
+
+      ],
+      "context": ""
+},
+{
+    
+  "tag": " Combined Medical Services  Exam",
+  "patterns": [
+    "Types",
+    "Syllabus of Combined Medical Service Exam ",
+    " Syllabus of CMS Exam",
+    "Syllabus of  Government medical doctor"
+  ],
+  "responses": [
+    " The Combined Medical Services:1. Paper-I: General Medicine and Pediatrics,2. Paper-II: Surgery, Gynecology and Obstetrics, and Preventive & Social Medicine The exam aims to recruit medical officers for various central government services."
+
+
+  ],
+  "context": ""
+},
+{
+
+  "tag": " ",
+  "patterns": [
+    "Types",
+    "Syllabus of Indian Economic Service Exam ",
+    " Syllabus of IES type Exam",
+    "Syllabus of  Government Economic officer "
+  ],
+  "responses": [
+    "The Indian Economic Service (IES) exam conducted by the UPSC includes two stages:1. Written Examination: General English ,General Studies , General Economics-I, General Economics-II,General Economics-III,Indian Economics,2. Viva Voce (Interview).The exam is designed to select candidates for various economic positions in the government."
+
+
+  ],
+  "context": ""
+},
+{
+    
+  "tag": " Syllabus of Indian  Statistical Service ",
+  "patterns": [
+    "Types",
+    "Syllabus of Indian  Statistical Service Exam ",
+    " Syllabus of ISSE  type Exam",
+    "Syllabus of  Government Statistical officer "
+  ],
+  "responses": [
+    "The Indian Statistical Service (ISS) exam consists of two stages:1. Written Examination: General English,General Studies,Statistics-I,Statistics-II,Statistics-III, Statistics-IV,2. Viva Voce (Interview).The exam is designed to select candidates for statistical positions in the government."
+
+
+  ],
+  "context": ""
+},
+
+{
+
+  "tag": " Syllabus of Central Armed Police Forces ",
+  "patterns": [
+    "Types",
+    "Syllabus of Central Armed Police Forces Exam ",
+    " Syllabus of CAPF type Exam",
+    "Syllabus of  Para military officer "
+  ],
+  "responses": [
+    "The Central Armed Police Forces (CAPF) examinationThe written exam consists of two papers:1. Paper I: General Ability and Intelligence.2. Paper II: General Studies, Essay, and Comprehension,Successful candidates then undergo the Physical Standards/Physical Efficiency Tests and Medical Standards Tests. The final stage includes the Interview/Personality Test."
+
+  ],
+  "context": ""
+},
+
+{
+
+  "tag": " civil services books",
+  "patterns": [
+    "give book for civil services",
+    "civil services pdf ",
+    " civil services material "
+     ],
+  "responses": [
+    "https://drive.google.com/drive/folders/1l-Q-tmATzV2ibjZsRTgsNZ5m3nMCSXr8?usp=drive_link"
+
+  ],
+  "context": ""
+},
+{
+
+"tag": " combined defence books",
+"patterns": [
+  "give book for combined defence books ",
+  "combined defence pdf ",
+  " CDS material "
+   ],
+"responses": [
+  "https://drive.google.com/drive/folders/1eqECSqA5SZNctSfTJTAMGDWult-gz_ED?usp=drive_link"
+
+],
+"context": ""
+},
+{
+
+  "tag": " indian forest service book",
+  "patterns": [
+    "give book for indian forest service books ",
+    " indian forest service pdf ",
+    " IFOS material "
+     ],
+  "responses": [
+    "https://drive.google.com/drive/folders/144lF8pPYwhVxU2lvo1dUeeAVSbrC6dYD?usp=drive_link"
+  
+  ],
+  "context": ""
+  },
+  {
+
+    "tag": " Engineering services Examination book",
+    "patterns": [
+      "give book  Engineering services for books ",
+      " Engineering services pdf ",
+      " ESE material "
+       ],
+    "responses": [
+      " https://drive.google.com/drive/folders/1m6Md8nTvwqARX-0vBUMMXJh2687L949x?usp=drive_link"
+    
+    ],
+    "context": ""
+    },
+    {
+
+      "tag": " National defence academy  book",
+      "patterns": [
+        "National defence academy /NAvalacademyfor books ",
+        " National defence  pdf ",
+        " NDA/NA material "
+         ],
+      "responses": [
+        "https://drive.google.com/drive/folders/1m-rPR3VwdAmvs5plCjz42vL-xdDUU6lr?usp=drive_link "
+      
+      ],
+      "context": ""
+      },
+      {
+
+        "tag": " combined medical exam book",
+        "patterns": [
+          "combined medical  books ",
+          " combined medical exam bookpdf ",
+          " CMS material "
+           ],
+        "responses": [
+          "https://drive.google.com/drive/folders/1m5Gqku4AnwBJmaXOY-HFO4xidijXQ8vi?usp=drive_link"
+        
+        ],
+        "context": ""
+        },
+        {
+
+          "tag": "  Indian Economic Service book",
+          "patterns": [
+            " Indian Economic Service books ",
+            " Indian Economic Service bookpdf ",
+            " IES material "
+             ],
+          "responses": [
+            " https://drive.google.com/drive/folders/1m3eSrQCs2lL_bF49g2AEVnjEF53KxJON?usp=drive_link"
+          
+          ],
+          "context": ""
+          },
+          {
+
+            "tag": "Indian Statistical Service books ",
+            "patterns": [
+              " Indian  Statistical Service books ",
+              " Indian  Statistical Service bookpdf ",
+              " ISS material "
+               ],
+            "responses": [
+              " https://drive.google.com/drive/folders/1m-xKLBKQvH689doZaZl_YRa-zPPjulXL?usp=drive_link"
+            
+            ],
+            "context": ""
+            },
+            {
+
+              "tag": "central Armed forces books ",
+              "patterns": [
+                " central armed forces  books ",
+                " central armed forces  book pdf ",
+                " CAPF guide "
+                 ],
+              "responses": [
+                " https://drive.google.com/drive/folders/1lv8BeyiBhuCg1onNWUs-GPXOEbm0-dsA?usp=sharing"
+              
+              ],
+              "context": ""
+              },
+   
+              {
+          
+            "tag": " civil services Exam",
+            "patterns": [
+              "tell about  civil services",
+              "civil services detail ",
+              " civil services  "
+               ],
+            "responses": [
+              "The UPSC Civil Services Examination (CSE) is one of the most prestigious and competitive exams in India, conducted by the Union Public Service Commission (UPSC). It is aimed at recruiting candidates for various administrative positions within the Indian government, including the Indian Administrative Service (IAS), Indian Foreign Service (IFS), Indian Police Service (IPS), and Indian Revenue Service (IRS), among others."
+          
+            ],
+            "context": ""
+          },
+          {
+          
+          "tag": " combined defence service",
+          "patterns": [
+            "tell about combined defence ",
+            "combined defence  ",
+            " CDS detail "
+             ],
+          "responses": [
+            "CDS stands for the Combined Defence Services examination, which is conducted by the Union Public Service Commission (UPSC) in India. The CDS exam is aimed at recruiting candidates for various officer positions in the Indian Armed Forces, including the Indian Military Academy (IMA), Indian Naval Academy (INA), Air Force Academy (AFA), and Officers' Training Academy (OTA)."
+          
+          ],
+          "context": ""
+          },
+          {
+          
+            "tag": " indian forest service ",
+            "patterns": [
+              "tell about indian forest service  ",
+              " indian forest service  ",
+              " IFOS detail "
+               ],
+            "responses": [
+              "The UPSC IFoS refers to the Indian Forest Service examination conducted by the Union Public Service Commission (UPSC) in India. It is a prestigious examination aimed at recruiting officers for the Indian Forest Service"
+            
+            ],
+            "context": ""
+            },
+            {
+          
+              "tag": " Engineering services Examination ",
+              "patterns": [
+                "tell about  Engineering services exam ",
+                " Engineering services ",
+                " ESE detail"
+                 ],
+              "responses": [
+                " UPSC ESE stands for the Union Public Service Commission (UPSC) Engineering Services Examination. It is a prestigious examination conducted by the UPSC to recruit engineers for various engineering services under the Government of India."
+              
+              ],
+              "context": ""
+              },
+              {
+          
+                "tag": " National defence academy  ",
+                "patterns": [
+                  " tell aboutNational defence academy /NAvalacademy ",
+                  " National defence   ",
+                  " NDA/NA  "
+                   ],
+                "responses": [
+                  "The NDA exam refers to the National Defence Academy Examination, which is conducted by the Union Public Service Commission (UPSC) of India. It is a highly competitive examination aimed at selecting candidates for admission to the National Defence Academy (NDA), located in Khadakwasla near Pune, Maharashtra. "
+                
+                ],
+                "context": ""
+                },
+                {
+          
+                  "tag": " combined medical exam ",
+                  "patterns": [
+                    " tell about combined medical Exam  ",
+                    " combined medical exam  ",
+                    " CMS detail  "
+                     ],
+                  "responses": [
+                    "The CMSE exam typically refers to the Combined Medical Services Examination conducted by the Union Public Service Commission (UPSC) in India. It is a prestigious examination aimed at recruiting medical officers for various services under the Government of India, such as the Indian Railways, Indian Ordnance Factories Health Service, Central Health Service, Municipal Corporation of Delhi, and others."
+                  
+                  ],
+                  "context": ""
+                  },
+                  {
+          
+                    "tag": "  Indian Economic Service ",
+                    "patterns": [
+                      " tell about  Indian Economic Service  ",
+                      " Indian Economic Service  ",
+                      " IES detail "
+                       ],
+                    "responses": [
+                      "The Indian Economic Service (IES) is a specialized civil service cadre in India that deals with economic analysis, economic administration, policy formulation, and implementation. It is a Group 'A' service under the Central Civil Services of the executive branch of the Government of India."
+                    
+                    ],
+                    "context": ""
+                    },
+                    {
+          
+                      "tag": "Indian Statistical Service  ",
+                      "patterns": [
+                        " tell aboutIndian  Statistical Service  ",
+                        " Indian  Statistical Service  ",
+                        " ISS details "
+                         ],
+                      "responses": [
+                        "he Indian Statistical Service (ISS) is a Group 'A' cadre of the Indian government's central civil services. It falls under the Ministry of Statistics and Programme Implementation. ISS officers are responsible for statistical research, collection, analysis, and dissemination of official statistics in various government departments and organizations. "
+                      
+                      ],
+                      "context": ""
+                      },
+                      {
+          
+                        "tag": "central Armed forces ",
+                        "patterns": [
+                          "tell about central armed forces  ",
+                          " central armed forces   ",
+                          " CAPF details  "
+                           ],
+                        "responses": [
+                          "The CAPF exam stands for the Central Armed Police Forces Examination, which is conducted by the Union Public Service Commission (UPSC) of India. It is a competitive examination aimed at recruiting Assistant Commandants in various Central Armed Police Forces (CAPFs) of India, including the Border Security Force (BSF), Central Reserve Police Force (CRPF), Central Industrial Security Force (CISF), Indo-Tibetan Border Police (ITBP), and Sashastra Seema Bal (SSB)."
+                        
+                        ],
+                        "context": ""
+                        },
+                        {
+          
+                          "tag": "upsc board members ",
+                          "patterns": [
+                            "tell about upsc board members ",
+                            " board members of upsc   ",
+                            " members in upscboard  "
+                             ],
+                          "responses": [
+                        " 1. **Dr. Manoj Soni**: Chairman, 2. Gen. Raj Shukla (Retd.) Member,3. **Mrs. Preeti Sudan**: Member, 4. **Ms. Suman Sharma**: Member, 5. **Sh. Bidyut Behari Swain**: Member, 6. **Dr. Dinesh Dasa**: Member,7. **Shri Sheel Vardhan Singh**: Member, 8. **Shri Sanjay Verma**: Member."
+                        
+                      ],
+                       "context": ""
+                          },
+                          {
+          
+                            "tag": "upsc board rules and regulations",
+                            "patterns": [
+                              "tell about upsc board rules ",
+                              " board rules of upsc   ",
+                              " upsc rules and regulations  "
+                               ],
+                            "responses": [
+                            "Exemption_from_Consultation_Regulations_1958: These regulations outline the matters on which the President of India may consult the UPSC as well as the matters for which consultation is not required Conduct_of_Examinations: The UPSC conducts various examinations including the Civil Services Examination (CSE), Engineering Services Examination (ESE), Combined Defence Services Examination (CDSE), and others. The rules and regulations governing the conduct of these examinations cover aspects such as eligibility criteria, examination pattern, syllabus, examination centers, and evaluation procedures,Recruitment_and_Appointments: The UPSC is responsible for recruiting candidates for various services and posts under the Government of India. The rules and regulations related to recruitment and appointments include provisions regarding advertisement of vacancies, application procedures, selection criteria, and appointment processes, Reservation_Policy: The UPSC follows the reservation policy of the Government of India in recruitment to various services and posts. This includes reservations for Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC), Economically Weaker Sections (EWS), and other categories as per the applicable rules and regulations, Code_of_Conduct: The members and employees of the UPSC are expected to adhere to a code of conduct that governs their behavior, ethics, and professional responsibilities. This includes provisions related to integrity, impartiality, confidentiality, and avoidance of conflicts of interest, Annual_Report: The UPSC is required to prepare and submit an annual report to the President of India, which provides details of its activities, performance, and recommendations during the preceding year."
+                            
+                          ],
+                          "context": ""
+                          },
+                          {
+          
+                            "tag": "history of upsc board",
+                            "patterns": [
+                              "tell about history of upsc ",
+                              "  upsc history  ",
+                              " upsc history after independence  "
+                               ],
+                            "responses": [
+                            "History_of_UPSC_Board:  Establishment: The UPSC was established under Article 315 of the Constitution of India and began its operations on October 1, 1926, as the Federal Public Service Commission, Pre-Independence_Era: The Federal Public Service Commission was established to recruit personnel for the civil services of the British Indian Government, Post-Independence_Era: After India gained independence in 1947, the Federal Public Service Commission was reconstituted as the Union Public Service Commission (UPSC) under the Government of India Act, 1935,Constitutional_Status: The UPSC was enshrined in the Constitution of India under Articles 315 to 323, becoming a constitutional body responsible for conducting examinations and making recommendations for appointments to various civil services and posts under the Union and the States,Functions_and_Responsibilities: The UPSC conducts examinations such as the Civil Services Examination (CSE), Engineering Services Examination (ESE), Combined Defence Services Examination (CDSE), and various others. It is also responsible for conducting interviews, making recruitment recommendations, and advising the Government on matters related to recruitment, promotions and disciplinary actions in the civil services, Evolution: Over the years, the UPSC has evolved to adapt to changing administrative needs, technological advancements, and societal developments. It has implemented reforms, modernized its processes, and adopted new methods to ensure transparency, fairness and efficiency in the recruitment process, Transparency_and_Integrity, The UPSC is known for its commitment to transparency, integrity, and meritocracy in the recruitment process. It upholds high standards of professionalism and impartiality in its operations, which have contributed to its credibility and trustworthiness over the years."
+                            
+                          ],
+                          "context": ""
+                          },
+                          {
+          
+                            "tag": "manvi",
+                            "patterns": [
+                              "bye ",
+                              "  thank you  ",
+                              " thanks  "
+                               ],
+                            "responses": [
+                            "thankyou any upsc doubt call me manvi upsc chatbot."
+                            
+                          ],
+                          "context": ""
+                          }     
+                        
+                          
+                      
+                         
+                            
+                 
+                        
+            ]
+          }
+          
+          
+            
+          
+          
+          
+          
+            
+          
+              
+          
+              
+            
+          
+            
+          
+          
+              
+                          
+  
+
+
+  
+
+
+
+
+  
+
+    
+
+    
+  
+
+  
+
+
+    
+    
